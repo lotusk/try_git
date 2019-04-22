@@ -1,0 +1,6 @@
+serialNumber,enrolled,assetKey,modelNumber,description,OSVersion,version
+test001,true,assetKey01,modelNumber01,desc01,osversion01,version01
+test002,true,assetKey02,modelNumber02,desc02,osversion02,version02
+test003,true,assetKey03,modelNumber03,desc03,osversion03,version03
+test004,true,assetKey04,modelNumber04,desc04,osversion04,version04
+test005,true,assetKey05,modelNumber05,desc01,osversion05,version05
