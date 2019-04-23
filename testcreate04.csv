@@ -1,0 +1,6 @@
+serialNumber,enrolled,assetKey,modelNumber,description,OSVersion,version,warrantyType,warrantyEndDate,productID,vendorID,panelClass,lastUpdatedDate,installDate,productCode,shipDate,mac
+test001,true,assetKey01,modelNumber01,desc01,osversion01,version01,ABC,1499825149457,productID001,vendorID001,panelClass001,1499825149457,1499825149457,productCode001,1499825149457,00-23-5A-15-99-45
+test002,false,assetKey02,modelNumber02,desc02,osversion02,version02,ABC,1499825149457,productID002,vendorID001,panelClass001,1499825149457,1499825149457,productCode001,1499825149457,00-23-5A-15-99-45
+test003,true,assetKey03,modelNumber03,desc03,osversion03,version03,ABC,1499825149457,productID003,vendorID001,panelClass001,1499825149457,1499825149457,productCode001,1499825149457,00-23-5A-15-99-45
+test004,true,assetKey04,modelNumber04,desc04,osversion04,version04,ABC,1499825149457,productID004,vendorID001,panelClass001,1499825149457,1499825149457,productCode001,1499825149457,00-23-5A-15-99-45
+test005,true,assetKey05,modelNumber05,desc01,osversion05,version05,,1499825149457,productID005,vendorID001,panelClass001,1499825149457,1499825149457,productCode001,1499825149457,00-23-5A-15-99-45
