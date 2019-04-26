@@ -1,0 +1,3 @@
+serialNumber,assetKey,installDate,productCode,shipDate,warrantyType
+ACSVTTEST015,ABC123456001,,prod001,2018-12-12,type3
+ACSVTTEST016,ABC123456001,2018-12-12,prod001,,type3
